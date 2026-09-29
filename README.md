@@ -15,7 +15,7 @@ A web application built to plan, organize, and manage Sacrament meeting agendas,
 
 * [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 * [MDN Web Docs](https://developer.mozilla.org/)
-* [Any tutorial, library docs, or articles you referenced](https://www.w3schools.com/typescript/index.php?_gl=1*1wfxagk*_gcl_au*OTkwMjg3NjEwLjE3ODQwMzk4OTA.*_ga*MjA0Nzc4MjI0OC4xNzcxODQ0Mjk4*_ga_9YNMTB56NB*czE3OTA3MTYyNjQkbzE0OSRnMSR0MTc5MDcxNjI5NCRqMzAkbDAkaDA.)
+* [W3schools](https://www.w3schools.com/typescript/index.php?_gl=1*1wfxagk*_gcl_au*OTkwMjg3NjEwLjE3ODQwMzk4OTA.*_ga*MjA0Nzc4MjI0OC4xNzcxODQ0Mjk4*_ga_9YNMTB56NB*czE3OTA3MTYyNjQkbzE0OSRnMSR0MTc5MDcxNjI5NCRqMzAkbDAkaDA.)
 
 # Future Work
 
